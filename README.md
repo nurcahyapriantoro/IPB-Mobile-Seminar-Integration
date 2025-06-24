@@ -107,8 +107,7 @@ Analisis dan desain sistem dilakukan secara mendalam untuk memastikan semua kebu
 Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin) dengan fitur-fitur sistem seperti Login, Menambahkan Seminar, Menghadiri Seminar, dan Verifikasi.
 
 <p align="center">
-  <img src="![use case](https://github.com/user-attachments/assets/efbbd8b9-ecaf-4c25-891c-b81759d9129f)
-" alt="Diagram Use Case"/>
+  <img https://github.com/user-attachments/assets/efbbd8b9-ecaf-4c25-891c-b81759d9129f alt="Diagram Use Case"/>
   <br/>
   <small><i>Diagram interaksi Aktor dengan Sistem</i></small>
 </p>
@@ -146,7 +145,7 @@ Berikut adalah beberapa contoh tampilan (mockup) dari aplikasi yang dirancang de
 
 ## 🔗 Tautan Penting
 
-[cite_start]Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut[cite: 8, 9].
+Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
 
 <p align="center">
   <a href="https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225&p=f&t=FTPAtG1OasRMqlgH-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A40506&starting-point-node-id=41%3A225&show-proto-sidebar=1">
