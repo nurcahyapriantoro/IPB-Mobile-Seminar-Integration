@@ -197,22 +197,20 @@ Berikut adalah beberapa mockup fitur utama yang dirancang di Figma.
 
 Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
 
-\<p align="center"\>
-  \<a href="[https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225\&p=f\&t=FTPAtG1OasRMqlgH-1\&scaling=min-zoom\&content-scaling=fixed\&page-id=4%3A40506\&starting-point-node-id=41%3A225\&show-proto-sidebar=1](https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225&p=f&t=FTPAtG1OasRMqlgH-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A40506&starting-point-node-id=41%3A225&show-proto-sidebar=1)"\>
-    \<img src="[https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" alt="Figma Prototype"/\>
-  \</a\>
-  \<a href="[https://www.canva.com/design/DAGqhW1Vipc/rCIG-A35lcvJr9iTnomDJw/edit?utm\_content=DAGqhW1Vipc\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton](https://www.canva.com/design/DAGqhW1Vipc/rCIG-A35lcvJr9iTnomDJw/edit?utm_content=DAGqhW1Vipc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"\>
-    \<img src="[https://img.shields.io/badge/Canva-Presentasi-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white](https://img.shields.io/badge/Canva-Presentasi-00C4CC?style=for-the-badge&logo=canva&logoColor=white)" alt="Canva Presentation"/\>
-  \</a\>
-  \<a href="[https://miro.com/app/board/uXjVIcA63gc=/?share\_link\_id=503088974360](https://miro.com/app/board/uXjVIcA63gc=/?share_link_id=503088974360)"\>
-    \<img src="[https://img.shields.io/badge/Miro-Board-FFCA28?style=for-the-badge\&logo=miro\&logoColor=black](https://img.shields.io/badge/Miro-Board-FFCA28?style=for-the-badge&logo=miro&logoColor=black)" alt="Miro Board"/\>
-  \</a\>
-\<a href="[https://drive.google.com/file/d/15TSk0Dw5Fs74IIWsne2DEATMcTPgoQTW/view?usp=sharing](https://drive.google.com/file/d/15TSk0Dw5Fs74IIWsne2DEATMcTPgoQTW/view?usp=sharing)"\>
-    \<img src="[https://img.shields.io/badge/Google\_Drive-Laporan\_Lengkap-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Google_Drive-Laporan_Lengkap-4285F4?style=for-the-badge%26logo=google-drive%26logoColor=white)" alt="Laporan Lengkap"/\>
-  \</a\>
-\</p\>
-
------
+<p align="center">
+  <a href="https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225&p=f&t=FTPAtG1OasRMqlgH-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A40506&starting-point-node-id=41%3A225&show-proto-sidebar=1">
+    <img src="https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype"/>
+  </a>
+  <a href="https://www.canva.com/design/DAGqhW1Vipc/rCIG-A35lcvJr9iTnomDJw/edit?utm_content=DAGqhW1Vipc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://img.shields.io/badge/Canva-Presentasi-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Presentation"/>
+  </a>
+  <a href="https://miro.com/app/board/uXjVIcA63gc=/?share_link_id=503088974360">
+    <img src="https://img.shields.io/badge/Miro-Board-FFCA28?style=for-the-badge&logo=miro&logoColor=black" alt="Miro Board"/>
+  </a>
+  <a href="https://drive.google.com/file/d/15TSk0Dw5Fs74IIWsne2DEATMcTPgoQTW/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Google_Drive-Laporan_Lengkap-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Laporan Lengkap"/>
+  </a>
+</p>
 
 ---
 
