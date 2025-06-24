@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/blob/main/Assets/Logo-IPB-University-Horizontal.png" alt="Logo IPB" width="500"/>
+  <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Logo-IPB-University-Horizontal.png" alt="Logo IPB" width="500"/>
 </p>
 
 <h1 align="center">Sistem Manajemen Seminar Terpusat - IPB Mobile</h1>
@@ -20,13 +20,13 @@
   - [Latar Belakang Masalah](#latar-belakang-masalah)
   - [Solusi yang Ditawarkan](#solusi-yang-ditawarkan)
 - [✨ Fitur Utama](#-fitur-utama)
-- [🛠️ Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+- [🛠️ Alat dan Teknologi](#-alat-dan-teknologi)
 - [🎨 Desain & Arsitektur Sistem](#-desain--arsitektur-sistem)
   - [Diagram Use Case](#diagram-use-case)
   - [Diagram Aktivitas](#diagram-aktivitas)
-  - [Model Domain (Class Diagram)](#model-domain-class-diagram)
-- [📸 Tampilan Aplikasi](#-tampilan-aplikasi)
-- [🚀 Memulai](#-memulai)
+  - [Diagram Sequence](#diagram-sequence)
+  - [Diagram Class](#diagram-class)
+- [📸 Tampilan Aplikasi (Mockup)](#-tampilan-aplikasi-mockup)
 - [🔗 Tautan Penting](#-tautan-penting)
 - [👥 Tim Pengembang](#-tim-pengembang)
 - [🙏 Ucapan Terima Kasih](#-ucapan-terima-kasih)
@@ -35,16 +35,16 @@
 
 ## 📝 Tentang Proyek
 
-Proyek ini bertujuan untuk merancang dan membangun sebuah sistem manajemen seminar yang terpusat dan terintegrasi ke dalam aplikasi **IPB Mobile Student (IPBM)**. Tujuannya adalah untuk meningkatkan relevansi aplikasi bagi mahasiswa tingkat akhir sekaligus menyelesaikan masalah inefisiensi dalam penyebaran informasi seminar di lingkungan Institut Pertanian Bogor.
+[cite_start]Proyek ini bertujuan untuk merancang dan membangun sebuah sistem manajemen seminar yang terpusat dan terintegrasi ke dalam aplikasi **IPB Mobile Student (IPBM)**. [cite_start]Tujuannya adalah untuk meningkatkan relevansi aplikasi bagi mahasiswa tingkat akhir sekaligus menyelesaikan masalah inefisiensi dalam penyebaran informasi seminar di lingkungan Institut Pertanian Bogor.
 
 ### Latar Belakang Masalah
 
-Saat ini, proses penyebaran informasi seminar masih sangat konvensional dan tidak terstruktur, seringkali hanya melalui pesan berantai di grup WhatsApp. Hal ini menimbulkan berbagai masalah:
+[cite_start]Saat ini, proses penyebaran informasi seminar masih sangat konvensional dan tidak terstruktur, seringkali hanya melalui pesan berantai di grup WhatsApp. Hal ini menimbulkan berbagai masalah:
 
-> * **🚫 Informasi Tidak Teratur:** Jadwal dan tautan seminar mudah tenggelam dalam ramainya grup percakapan.
+> [cite_start]* **🚫 Informasi Tidak Teratur:** Jadwal dan tautan seminar mudah tenggelam dalam ramainya grup percakapan.
 > * **📉 Jangkauan Terbatas:** Informasi hanya tersebar di kalangan tertentu, menyulitkan pemenuhan kuota minimal peserta.
-> * **❓ Kurang Transparansi:** Tidak ada platform terpusat untuk mencari seminar berdasarkan minat atau jadwal.
-> * **🎓 Risiko Penundaan Kelulusan:** Mahasiswa tingkat akhir berisiko gagal memenuhi syarat seminar, yang dapat menghambat kelulusan.
+> [cite_start]* **❓ Kurang Transparansi:** Tidak ada platform terpusat untuk mencari seminar berdasarkan minat atau jadwal.
+> [cite_start]* **🎓 Risiko Penundaan Kelulusan:** Mahasiswa tingkat akhir berisiko gagal memenuhi syarat seminar, yang dapat menghambat kelulusan.
 
 ### Solusi yang Ditawarkan
 
@@ -64,8 +64,7 @@ Sistem ini dirancang dengan fitur-fitur yang melayani kebutuhan setiap aktor (pe
 <summary><b>👨‍🎓 Untuk Mahasiswa Penyelenggara Seminar</b></summary>
   
 -   ✅ **Pendaftaran Seminar:** Mengajukan jadwal seminar baru dengan mengisi formulir detail (judul, deskripsi, dosen pembimbing, jadwal) dan mengunggah berkas proposal.
--   ✏️ **Manajemen Seminar:** Melihat status dan daftar seminar yang telah diajukan (Menunggu, Disetujui, Ditolak).
--   ❌ **Pembatalan Seminar:** Fitur untuk membatalkan penyelenggaraan seminar yang telah disetujui jika diperlukan.
+-   ❌ **Pembatalan Seminar:** Fitur untuk membatalkan penyelenggaraan seminar yang telah diajukan atau disetujui.
 -   📊 **Lihat Pendaftar:** Memantau jumlah dan daftar mahasiswa yang akan hadir sebagai audiens.
 </details>
 
@@ -73,7 +72,6 @@ Sistem ini dirancang dengan fitur-fitur yang melayani kebutuhan setiap aktor (pe
 <summary><b>👩‍🏫 Untuk Mahasiswa Audiens</b></summary>
 
 -   🔍 **Pencarian & Filter Lanjutan:** Mencari seminar berdasarkan kata kunci, fakultas, atau departemen untuk menemukan topik yang paling relevan.
--   📅 **Kalender Seminar:** Melihat semua jadwal seminar yang akan datang dalam tampilan kalender yang intuitif.
 -   ✍️ **Pendaftaran Partisipasi:** Mendaftar sebagai peserta seminar hanya dengan beberapa kali klik.
 -   🔔 **Notifikasi Pengingat:** Sistem notifikasi otomatis untuk mengingatkan seminar yang akan dihadiri.
 -   🚫 **Pembatalan Partisipasi:** Membatalkan kehadiran untuk memberikan slot kepada mahasiswa lain.
@@ -84,18 +82,18 @@ Sistem ini dirancang dengan fitur-fitur yang melayani kebutuhan setiap aktor (pe
   
 -   🛡️ **Verifikasi & Persetujuan:** Meninjau pengajuan seminar dari mahasiswa dan memberikan persetujuan atau penolakan berdasarkan kelengkapan administrasi dan konten.
 -   📈 **Dasbor Manajemen:** Memantau semua aktivitas seminar yang terjadi di dalam platform.
--   ⚙️ **Manajemen Data:** Mengelola data master seperti ruangan, jadwal, dan data pendukung lainnya.
 </details>
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Alat dan Teknologi
 
-Proyek ini dirancang menggunakan tumpukan teknologi modern untuk memastikan skalabilitas dan kemudahan pemeliharaan.
-
-* **UI & UX:** Figma
-* **Activity Diagram:** Miro
-* **Platform:** IPB Mobile (Android & iOS)
+Proyek ini dirancang menggunakan alat modern untuk proses analisis dan desain, serta teknologi pengembangan web yang umum digunakan.
+* [cite_start]**Desain UI/UX & Prototipe:** Figma 
+* [cite_start]**Diagram Alur & Kolaborasi:** Miro 
+* [cite_start]**Backend Framework:** Laravel 
+* [cite_start]**Frontend Framework:** Bootstrap 
+* [cite_start]**Platform Target:** IPB Mobile (Android & iOS) 
 
 ---
 
@@ -104,48 +102,59 @@ Proyek ini dirancang menggunakan tumpukan teknologi modern untuk memastikan skal
 Analisis dan desain sistem dilakukan secara mendalam untuk memastikan semua kebutuhan fungsional dan non-fungsional terpenuhi.
 
 ### Diagram Use Case
-Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin) dengan fitur-fitur sistem seperti Login, Menambahkan Seminar, Menghadiri Seminar, dan Verifikasi.
+[cite_start]Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin) dengan fitur-fitur sistem.
 
 <p align="center">
-  <img https://github.com/user-attachments/assets/efbbd8b9-ecaf-4c25-891c-b81759d9129f alt="Diagram Use Case"/>
+  <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Use%20Case%20Diagram.png" alt="Diagram Use Case" width="700"/>
   <br/>
   <small><i>Diagram interaksi Aktor dengan Sistem</i></small>
 </p>
 
 ### Diagram Aktivitas
-Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dalam sistem, mulai dari pendaftaran seminar oleh mahasiswa hingga proses verifikasi oleh admin.
+[cite_start]Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dalam sistem.
 
+<details>
+<summary><b>Lihat Diagram Aktivitas Selengkapnya</b></summary>
+
+| [cite_start]User Login  | [cite_start]Menambahkan List Seminar  | [cite_start]Mencari & Mendaftar Seminar  |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%201.png" alt="Activity Diagram 1" width="300"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%202.png" alt="Activity Diagram 2" width="300"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%203.png" alt="Activity Diagram 3" width="300"> |
+
+</details>
+
+### Diagram Sequence
+Diagram ini menunjukkan urutan interaksi antar objek dalam sistem untuk skenario tertentu.
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/3d1cfeb8-c9d5-4807-803f-e0c20bc1c503)
-" alt="Use Case Diagram"/>
+  <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Sequence%20Diagram.png" alt="Sequence Diagram" width="700"/>
   <br/>
-  <small><i>Contoh alur aktivitas Pendaftaran Seminar</i></small>
+  <small><i>Contoh alur sequence diagram</i></small>
 </p>
 
-### Model Domain (Class Diagram)
-Struktur database dirancang untuk secara efisien menyimpan dan mengelola data terkait User, Dosen, Admin, Seminar, Proposal, dan Ruangan.
-
+### Diagram Class
+[cite_start]Struktur data dirancang untuk secara efisien menyimpan dan mengelola data terkait pengguna, seminar, dan entitas lainnya.
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ae87b781-86bf-4a41-add9-ebeba0160829)
-" alt="Class Diagram"/>
+  <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Class%20Diagram.png" alt="Class Diagram" width="800"/>
   <br/>
-  <small><i>Struktur dan relasi antar tabel dalam database</i></small>
+  <small><i>Struktur dan relasi antar entitas dalam sistem</i></small>
 </p>
 
 ---
 
-## 📸 Tampilan Aplikasi
+## 📸 Tampilan Aplikasi (Mockup)
 
-Berikut adalah beberapa contoh tampilan (mockup) dari aplikasi yang dirancang dengan antarmuka yang modern, bersih, dan ramah pengguna.
+Berikut adalah beberapa mockup fitur utama yang dirancang di Figma.
 
-| Halaman Utama | Detail Seminar | Formulir Pendaftaran |
-| :---: | :---: | :---: |
-| <img src="https://placehold.co/300x600/f0f8ff/333333?text=Halaman+Utama%0A(Daftar+Seminar)" alt="Halaman Utama"> | <img src="https://placehold.co/300x600/e6e6fa/333333?text=Halaman+Detail%0A(Info+Lengkap+Seminar)" alt="Detail Seminar"> | <img src="https://placehold.co/300x600/fff0f5/333333?text=Formulir+Pendaftaran%0A(Ajukan+Seminar+Baru)" alt="Formulir Pendaftaran"> |
+| Menambahkan Seminar | Mengikuti Seminar | Cancel Partisipasi |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Menambahkan%20List%20Seminar%20(Mahasiswa%20Tingkat%20Akhir).png" alt="Menambahkan List Seminar" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Mengikuti%20Seminar%20(Mahasiswa%20Audiens).png" alt="Mengikuti Seminar" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Cancel%20Partisipasi%20Seminar%20(Mahasiswa%20Audiens).png" alt="Cancel Partisipasi" width="250"> |
+| **Fitur Filter** | **Fitur Search Bar** | **Cancel Penyelenggaraan** |
+| <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Fitur%20Filter%20berdasarkan%20Fakultas%20(%E2%80%9CFEM%E2%80%9D)%20%26%20Jurusan%20(%E2%80%9CManajemen%E2%80%9D).png" alt="Fitur Filter" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Fitur%20Search%20Bar%20(Studi%20Kasus%20mencari%20Fakultas%20%E2%80%9Cfem%E2%80%9D).png" alt="Fitur Search" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Cancel%20Penyelenggaraan%20Seminar%20(Mahasiswa%20Tingkat%20Akhir).png" alt="Cancel Penyelenggaraan" width="250"> |
+
 ---
 
 ## 🔗 Tautan Penting
 
-Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
+[cite_start]Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
 
 <p align="center">
   <a href="https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225&p=f&t=FTPAtG1OasRMqlgH-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A40506&starting-point-node-id=41%3A225&show-proto-sidebar=1">
@@ -163,11 +172,11 @@ Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
 
 ## 👥 Tim Pengembang
 
-Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Institut Pertanian Bogor.
+[cite_start]Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Institut Pertanian Bogor.
 
-* **Nurcahya Priantoro** - `G6401221049`
-* **Nabil Hamzah Ash Shiddiq** - `G6401221901`
-* **Justin Kristaldi Djafar** - `G6401221102`
+* [cite_start]**Nurcahya Priantoro** - `G6401221049` 
+* [cite_start]**Nabil Hamzah Ash Shiddiq** - `G6401221901` 
+* [cite_start]**Justin Kristaldi Djafar** - `G6401221102` 
 
 ---
 
@@ -177,4 +186,3 @@ Kami ingin mengucapkan terima kasih kepada:
 * Institut Pertanian Bogor (IPB)
 * Dosen Pembimbing dan Tenaga Kependidikan
 * Semua pihak yang telah memberikan dukungan selama proses analisis dan desain sistem ini.
-
