@@ -27,6 +27,7 @@
   - [Model Domain (Class Diagram)](#model-domain-class-diagram)
 - [📸 Tampilan Aplikasi](#-tampilan-aplikasi)
 - [🚀 Memulai](#-memulai)
+- [🔗 Tautan Penting](#-tautan-penting)
 - [👥 Tim Pengembang](#-tim-pengembang)
 - [🙏 Ucapan Terima Kasih](#-ucapan-terima-kasih)
 
@@ -115,7 +116,8 @@ Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin)
 Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dalam sistem, mulai dari pendaftaran seminar oleh mahasiswa hingga proses verifikasi oleh admin.
 
 <p align="center">
-  <img src="https://placehold.co/600x400/555/FFFFFF?text=Diagram+Aktivitas" alt="Diagram Aktivitas"/>
+  <img src="![image](https://github.com/user-attachments/assets/3d1cfeb8-c9d5-4807-803f-e0c20bc1c503)
+" alt="Use Case Diagram"/>
   <br/>
   <small><i>Contoh alur aktivitas Pendaftaran Seminar</i></small>
 </p>
@@ -124,7 +126,8 @@ Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dal
 Struktur database dirancang untuk secara efisien menyimpan dan mengelola data terkait User, Dosen, Admin, Seminar, Proposal, dan Ruangan.
 
 <p align="center">
-  <img src="https://placehold.co/600x400/444/FFFFFF?text=Class+Diagram" alt="Class Diagram"/>
+  <img src="![image](https://github.com/user-attachments/assets/ae87b781-86bf-4a41-add9-ebeba0160829)
+" alt="Class Diagram"/>
   <br/>
   <small><i>Struktur dan relasi antar tabel dalam database</i></small>
 </p>
@@ -138,6 +141,23 @@ Berikut adalah beberapa contoh tampilan (mockup) dari aplikasi yang dirancang de
 | Halaman Utama | Detail Seminar | Formulir Pendaftaran |
 | :---: | :---: | :---: |
 | <img src="https://placehold.co/300x600/f0f8ff/333333?text=Halaman+Utama%0A(Daftar+Seminar)" alt="Halaman Utama"> | <img src="https://placehold.co/300x600/e6e6fa/333333?text=Halaman+Detail%0A(Info+Lengkap+Seminar)" alt="Detail Seminar"> | <img src="https://placehold.co/300x600/fff0f5/333333?text=Formulir+Pendaftaran%0A(Ajukan+Seminar+Baru)" alt="Formulir Pendaftaran"> |
+---
+
+## 🔗 Tautan Penting
+
+[cite_start]Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut[cite: 8, 9].
+
+<p align="center">
+  <a href="https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225&p=f&t=FTPAtG1OasRMqlgH-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A40506&starting-point-node-id=41%3A225&show-proto-sidebar=1">
+    <img src="https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype"/>
+  </a>
+  <a href="https://www.canva.com/design/DAGqhW1Vipc/rCIG-A35lcvJr9iTnomDJw/edit?utm_content=DAGqhW1Vipc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://img.shields.io/badge/Canva-Presentasi-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Presentation"/>
+  </a>
+  <a href="https://miro.com/app/board/uXjVIcA63gc=/?share_link_id=503088974360">
+    <img src="https://img.shields.io/badge/Miro-Board-FFCA28?style=for-the-badge&logo=miro&logoColor=black" alt="Miro Board"/>
+  </a>
+</p>
 
 ---
 
@@ -145,8 +165,8 @@ Berikut adalah beberapa contoh tampilan (mockup) dari aplikasi yang dirancang de
 
 Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Institut Pertanian Bogor.
 
-* **Nabil Hamzah Ash Shiddiq** - `G6401221901`
 * **Nurcahya Priantoro** - `G6401221049`
+* **Nabil Hamzah Ash Shiddiq** - `G6401221901`
 * **Justin Kristaldi Djafar** - `G6401221102`
 
 ---
