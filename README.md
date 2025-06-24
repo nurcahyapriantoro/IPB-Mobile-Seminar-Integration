@@ -35,16 +35,16 @@
 
 ## 📝 Tentang Proyek
 
-[cite_start]Proyek ini bertujuan untuk merancang dan membangun sebuah sistem manajemen seminar yang terpusat dan terintegrasi ke dalam aplikasi **IPB Mobile Student (IPBM)**. [cite_start]Tujuannya adalah untuk meningkatkan relevansi aplikasi bagi mahasiswa tingkat akhir sekaligus menyelesaikan masalah inefisiensi dalam penyebaran informasi seminar di lingkungan Institut Pertanian Bogor.
+Proyek ini bertujuan untuk merancang dan membangun sebuah sistem manajemen seminar yang terpusat dan terintegrasi ke dalam aplikasi **IPB Mobile Student (IPBM)**. Tujuannya adalah untuk meningkatkan relevansi aplikasi bagi mahasiswa tingkat akhir sekaligus menyelesaikan masalah inefisiensi dalam penyebaran informasi seminar di lingkungan Institut Pertanian Bogor.
 
 ### Latar Belakang Masalah
 
-[cite_start]Saat ini, proses penyebaran informasi seminar masih sangat konvensional dan tidak terstruktur, seringkali hanya melalui pesan berantai di grup WhatsApp. Hal ini menimbulkan berbagai masalah:
+Saat ini, proses penyebaran informasi seminar masih sangat konvensional dan tidak terstruktur, seringkali hanya melalui pesan berantai di grup WhatsApp. Hal ini menimbulkan berbagai masalah:
 
-> [cite_start]* **🚫 Informasi Tidak Teratur:** Jadwal dan tautan seminar mudah tenggelam dalam ramainya grup percakapan.
+> * **🚫 Informasi Tidak Teratur:** Jadwal dan tautan seminar mudah tenggelam dalam ramainya grup percakapan.
 > * **📉 Jangkauan Terbatas:** Informasi hanya tersebar di kalangan tertentu, menyulitkan pemenuhan kuota minimal peserta.
-> [cite_start]* **❓ Kurang Transparansi:** Tidak ada platform terpusat untuk mencari seminar berdasarkan minat atau jadwal.
-> [cite_start]* **🎓 Risiko Penundaan Kelulusan:** Mahasiswa tingkat akhir berisiko gagal memenuhi syarat seminar, yang dapat menghambat kelulusan.
+> * **❓ Kurang Transparansi:** Tidak ada platform terpusat untuk mencari seminar berdasarkan minat atau jadwal.
+> * **🎓 Risiko Penundaan Kelulusan:** Mahasiswa tingkat akhir berisiko gagal memenuhi syarat seminar, yang dapat menghambat kelulusan.
 
 ### Solusi yang Ditawarkan
 
@@ -89,11 +89,9 @@ Sistem ini dirancang dengan fitur-fitur yang melayani kebutuhan setiap aktor (pe
 ## 🛠️ Alat dan Teknologi
 
 Proyek ini dirancang menggunakan alat modern untuk proses analisis dan desain, serta teknologi pengembangan web yang umum digunakan.
-* [cite_start]**Desain UI/UX & Prototipe:** Figma 
-* [cite_start]**Diagram Alur & Kolaborasi:** Miro 
-* [cite_start]**Backend Framework:** Laravel 
-* [cite_start]**Frontend Framework:** Bootstrap 
-* [cite_start]**Platform Target:** IPB Mobile (Android & iOS) 
+* **Desain UI/UX & Prototipe:** Figma 
+* **Diagram Alur & Kolaborasi:** Miro 
+* **Platform Target:** IPB Mobile (Android & iOS) 
 
 ---
 
@@ -102,7 +100,7 @@ Proyek ini dirancang menggunakan alat modern untuk proses analisis dan desain, s
 Analisis dan desain sistem dilakukan secara mendalam untuk memastikan semua kebutuhan fungsional dan non-fungsional terpenuhi.
 
 ### Diagram Use Case
-[cite_start]Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin) dengan fitur-fitur sistem.
+Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin) dengan fitur-fitur sistem.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Use%20Case%20Diagram.png" alt="Diagram Use Case" width="700"/>
@@ -111,7 +109,7 @@ Analisis dan desain sistem dilakukan secara mendalam untuk memastikan semua kebu
 </p>
 
 ### Diagram Aktivitas
-[cite_start]Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dalam sistem.
+Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dalam sistem.
 
 <details>
 <summary><b>Lihat Diagram Aktivitas Selengkapnya</b></summary>
@@ -154,7 +152,7 @@ Berikut adalah beberapa mockup fitur utama yang dirancang di Figma.
 
 ## 🔗 Tautan Penting
 
-[cite_start]Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
+Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
 
 <p align="center">
   <a href="https://www.figma.com/proto/ah9jTxc2B0wr3miOVQiBTT/ADS?node-id=41-225&p=f&t=FTPAtG1OasRMqlgH-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A40506&starting-point-node-id=41%3A225&show-proto-sidebar=1">
@@ -172,11 +170,11 @@ Berikut adalah beberapa mockup fitur utama yang dirancang di Figma.
 
 ## 👥 Tim Pengembang
 
-[cite_start]Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Institut Pertanian Bogor.
+Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Institut Pertanian Bogor.
 
-* [cite_start]**Nurcahya Priantoro** - `G6401221049` 
-* [cite_start]**Nabil Hamzah Ash Shiddiq** - `G6401221901` 
-* [cite_start]**Justin Kristaldi Djafar** - `G6401221102` 
+* **Nurcahya Priantoro** - `G6401221049` 
+* **Nabil Hamzah Ash Shiddiq** - `G6401221901` 
+* **Justin Kristaldi Djafar** - `G6401221102` 
 
 ---
 
