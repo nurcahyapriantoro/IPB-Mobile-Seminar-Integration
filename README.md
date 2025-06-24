@@ -114,7 +114,7 @@ Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dal
 <details>
 <summary><b>Lihat Diagram Aktivitas Selengkapnya</b></summary>
 
-| [cite_start]User Login  | [cite_start]Menambahkan List Seminar  | [cite_start]Mencari & Mendaftar Seminar  |
+| User Login  | Menambahkan List Seminar  | Mencari & Mendaftar Seminar  |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%201.png" alt="Activity Diagram 1" width="300"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%202.png" alt="Activity Diagram 2" width="300"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%203.png" alt="Activity Diagram 3" width="300"> |
 
