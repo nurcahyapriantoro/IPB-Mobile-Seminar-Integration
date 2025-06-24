@@ -212,8 +212,6 @@ Akses aset dan dokumentasi pelengkap proyek melalui tautan berikut.
   </a>
 </p>
 
----
-
 ## 👥 Tim Pengembang
 
 Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Institut Pertanian Bogor.
