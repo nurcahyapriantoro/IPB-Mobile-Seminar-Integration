@@ -225,5 +225,5 @@ Proyek ini dikembangkan oleh tim mahasiswa dari Program Studi Ilmu Komputer, Ins
 
 Kami ingin mengucapkan terima kasih kepada:
 * Institut Pertanian Bogor (IPB)
-* Dosen Pembimbing dan Tenaga Kependidikan
+* Dosen Pengajar & Asisten Praktikum
 * Semua pihak yang telah memberikan dukungan selama proses analisis dan desain sistem ini.
