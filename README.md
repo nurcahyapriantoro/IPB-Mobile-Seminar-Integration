@@ -107,7 +107,8 @@ Analisis dan desain sistem dilakukan secara mendalam untuk memastikan semua kebu
 Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin) dengan fitur-fitur sistem seperti Login, Menambahkan Seminar, Menghadiri Seminar, dan Verifikasi.
 
 <p align="center">
-  <img src="https://placehold.co/600x400/333/FFFFFF?text=Diagram+Use+Case" alt="Diagram Use Case"/>
+  <img src="![use case](https://github.com/user-attachments/assets/efbbd8b9-ecaf-4c25-891c-b81759d9129f)
+" alt="Diagram Use Case"/>
   <br/>
   <small><i>Diagram interaksi Aktor dengan Sistem</i></small>
 </p>
