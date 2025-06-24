@@ -122,14 +122,22 @@ Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dal
 
 ### Diagram Sequence
 Diagram ini menunjukkan urutan interaksi antar objek dalam sistem untuk skenario tertentu.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Sequence%20Diagram.png" alt="Sequence Diagram" width="700"/>
-  <br/>
-  <small><i>Contoh alur sequence diagram</i></small>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Sequence Diagram 1</b><br/>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Sequence%20Diagram.png" alt="Sequence Diagram 1" width="420"/>
+    </td>
+    <td align="center">
+      <b>Sequence Diagram 2</b><br/>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Sequence%20Diagram%202.png" alt="Sequence Diagram 2" width="420"/>
+    </td>
+  </tr>
+</table>
 
 ### Diagram Class
-[cite_start]Struktur data dirancang untuk secara efisien menyimpan dan mengelola data terkait pengguna, seminar, dan entitas lainnya.
+Struktur data dirancang untuk secara efisien menyimpan dan mengelola data terkait pengguna, seminar, dan entitas lainnya.
 <p align="center">
   <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Class%20Diagram.png" alt="Class Diagram" width="800"/>
   <br/>
