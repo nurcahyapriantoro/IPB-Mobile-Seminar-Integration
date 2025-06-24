@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Logo_IPB.png/1200px-Logo_IPB.png" alt="Logo IPB" width="150"/>
+  <img src="https://github.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/blob/main/Assets/Logo-IPB-University-Horizontal.png" alt="Logo IPB" width="150"/>
 </p>
 
 <h1 align="center">Sistem Manajemen Seminar Terpusat - IPB Mobile</h1>
