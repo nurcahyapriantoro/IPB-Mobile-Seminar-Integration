@@ -150,13 +150,38 @@ Struktur data dirancang untuk secara efisien menyimpan dan mengelola data terkai
 
 Berikut adalah beberapa mockup fitur utama yang dirancang di Figma.
 
-| Menambahkan Seminar | Mengikuti Seminar | Cancel Partisipasi |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Menambahkan%20List%20Seminar%20(Mahasiswa%20Tingkat%20Akhir).png" alt="Menambahkan List Seminar" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Mengikuti%20Seminar%20(Mahasiswa%20Audiens).png" alt="Mengikuti Seminar" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Cancel%20Partisipasi%20Seminar%20(Mahasiswa%20Audiens).png" alt="Cancel Partisipasi" width="250"> |
-| **Fitur Filter** | **Fitur Search Bar** | **Cancel Penyelenggaraan** |
-| <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Fitur%20Filter%20berdasarkan%20Fakultas%20(%E2%80%9CFEM%E2%80%9D)%20%26%20Jurusan%20(%E2%80%9CManajemen%E2%80%9D).png" alt="Fitur Filter" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Fitur%20Search%20Bar%20(Studi%20Kasus%20mencari%20Fakultas%20%E2%80%9Cfem%E2%80%9D).png" alt="Fitur Search" width="250"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Cancel%20Penyelenggaraan%20Seminar%20(Mahasiswa%20Tingkat%20Akhir).png" alt="Cancel Penyelenggaraan" width="250"> |
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Menambahkan Seminar</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Menambahkan%20List%20Seminar%20(Mahasiswa%20Tingkat%20Akhir).png" alt="Menambahkan List Seminar" width="350">
+    </td>
+    <td align="center">
+      <b>Mengikuti Seminar</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Mengikuti%20Seminar%20(Mahasiswa%20Audiens).png" alt="Mengikuti Seminar" width="350">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Cancel Partisipasi</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Cancel%20Partisipasi%20Seminar%20(Mahasiswa%20Audiens).png" alt="Cancel Partisipasi" width="350">
+    </td>
+    <td align="center">
+      <b>Cancel Penyelenggaraan</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Cancel%20Penyelenggaraan%20Seminar%20(Mahasiswa%20Tingkat%20Akhir).png" alt="Cancel Penyelenggaraan" width="350">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Fitur Filter</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Fitur%20Filter%20berdasarkan%20Fakultas%20(%E2%80%9CFEM%E2%80%9D)%20%26%20Jurusan%20(%E2%80%9CManajemen%E2%80%9D).png" alt="Fitur Filter" width="350">
+    </td>
+    <td align="center">
+      <b>Fitur Search Bar</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Fitur%20Search%20Bar%20(Studi%20Kasus%20mencari%20Fakultas%20%E2%80%9Cfem%E2%80%9D).png" alt="Fitur Search" width="350">
+    </td>
+  </tr>
+</table>
 
 ## 🔗 Tautan Penting
 
