@@ -111,14 +111,24 @@ Diagram ini menggambarkan interaksi utama antara aktor (Mahasiswa, Dosen, Admin)
 ### Diagram Aktivitas
 Diagram ini memvisualisasikan alur kerja (workflow) dari setiap proses utama dalam sistem.
 
-<details>
-<summary><b>Lihat Diagram Aktivitas Selengkapnya</b></summary>
-
-| User Login  | Menambahkan List Seminar  | Mencari & Mendaftar Seminar  |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%201.png" alt="Activity Diagram 1" width="300"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%202.png" alt="Activity Diagram 2" width="300"> | <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%203.png" alt="Activity Diagram 3" width="300"> |
-
-</details>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>User Login</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%201.png" alt="Activity Diagram 1: User Login" width="420">
+    </td>
+    <td align="center">
+      <b>Menambahkan List Seminar</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%202.png" alt="Activity Diagram 2: Menambahkan List Seminar" width="420">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Mencari & Mendaftar Seminar</b><br>
+      <img src="https://raw.githubusercontent.com/nurcahyapriantoro/IPB-Mobile-Seminar-Integration/main/Assets/Activity%20Diagram%203.png" alt="Activity Diagram 3: Mencari & Mendaftar Seminar" width="420">
+    </td>
+  </tr>
+</table>
 
 ### Diagram Sequence
 Diagram ini menunjukkan urutan interaksi antar objek dalam sistem untuk skenario tertentu.
